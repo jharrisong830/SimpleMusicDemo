@@ -12,6 +12,9 @@ This project was completed separately from my coursework and self-taught from Ap
 ## How it Works
 Users can log into their various music streaming accounts (currently only Spotify and Apple Music are supported), select playlists, and create an equivalent playlist on another platform. Songs are first matched by using their ISRCs (International Standard Recording Codes), which ensure that song matches are as accurate as possible across platforms. When a certain song can't be matched, the user can select another version by searching the Spotify and Apple Music catalogs.
 
+## Privacy Statements
+All account credentials and API Keys are stored on-device. Your keys, passwords, listening habits, playlist contents, or other data cannot be seen by me in any way, shape, or form. Accessing external accounts are subject to the respective platform's privacy policy. [See my official privacy policy.](https://www.jhg.app/privacy)
+
 ## Requirements
 - A device running iOS 17.0 or later
 - An active Spotify account (free or premium)
